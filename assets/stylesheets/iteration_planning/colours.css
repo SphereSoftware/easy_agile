@@ -1,5 +1,5 @@
 div.iteration_planning .include a{ background-repeat:no-repeat }
-div.iteration_planning #stories_available .include a { background-image:url(/plugin_assets/easy_agile/images/arrow_large_left_highlighted.png) }
-div.iteration_planning #stories_iteration .include a { background-image:url(/plugin_assets/easy_agile/images/arrow_large_right_highlighted.png) }
+div.iteration_planning #stories_available .include a { background-image:url(../../images/arrow_large_left_highlighted.png) }
+div.iteration_planning #stories_iteration .include a { background-image:url(../../images/arrow_large_right_highlighted.png) }
 div.iteration_planning .display .content { background:#fff }
 div.iteration_planning .story .estimate { border:none }

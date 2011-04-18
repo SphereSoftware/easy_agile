@@ -1,69 +1,9 @@
-/* body,legend { color:#333 } */
-/* #header { background:#fff 28px 2px url(/images/simply_agile.png) no-repeat } */
 
-/* .important_message div { color:#000; background:#ff5; opacity:0.9 } */
-
-/* #errorExplanation ul li { list-style-type:square; margin-left:1em } */
-/* .field_with_errors { border:1px solid #ff7f2a } */
-/* label.field_with_errors { border:none } */
-
-/* /\* navigation *\/ */
-/* #navigation li, */
-/* body.active_iterations li#nav_iterations a, */
-/* body.iterations li#nav_iterations a, */
-/* body.projects li#nav_projects a, */
-/* body.stories li#nav_projects a, */
-/* body.invoices li#nav_account a, */
-/* body.payment_methods li#nav_account a, */
-/* body.organisations li#nav_account a, */
-/* body.organisation_members li#nav_sharing a { */
-/*   background:#ff7f2a; */
-/*   color:#fff; */
-/*   -moz-border-radius-topleft:6px; */
-/*   -moz-border-radius-topright:6px; */
-/*   -webkit-border-top-left-radius:6px; */
-/*   -webkit-border-top-right-radius:6px; */
-/*   border-top-left-radius:6px; */
-/*   border-top-right-radius:6px; */
-/* } */
-/* #breadcrumbs{ */
-/*   background:#ff7f2a; */
-/*   color:#fff; */
-/* } */
-
-/* #navigation a { */
-/*   background:#fff; */
-/*   color:#333; */
-/*   outline:none; */
-/*   -moz-border-radius-topright:0; */
-/*   -moz-border-radius-topleft:0; */
-/*   -webkit-border-top-right-radius:0; */
-/*   -webkit-border-top-left-radius:0; */
-/*   border-top-right-radius:0; */
-/*   border-top-left-radius:0; */
-/* } */
-/* /\* end navigation *\/ */
-
-/* #contextual_new_story { background:url(/plugin_assets/easy_agile/images/new_story.png) no-repeat; */
-/*                         outline:none; */
-/*                         text-indent:-2000000px; text-decoration:none } */
-/* #contextual_new_story:hover, */
-/* #contextual_new_story:focus, */
-/* #stories_new #contextual_new_story { background-image:url(/plugin_assets/easy_agile/images/new_story_highlight.png) } */
-
-/* #footer, #footer a { color:#666 } */
-
-#actions a { color:#444; display:block; background:url(/plugin_assets/easy_agile/images/button_background.png) no-repeat }
+#actions a { color:#444; display:block; background:url(../../images/button_background.png) no-repeat }
 
 div.section, div.section h3 { border:2px solid #e4e5f3 }
 div.section .errorExplanation h3 { border: none }
 div.section h3 { background:#fff }
-
-/* /\* javascript request *\/ */
-/* .javascript #request { background:#fff; border:2px solid #ff7f2a } */
-/* .javascript #request a#close_request { color:#fff } */
-/* .javascript #request h2#request_header { background:#ff7f2a } */
-/* /\* end javascript request *\/ */
 
 #headings .complete { background:#3dfd4f }
 #acceptance_criteria #completed, .aside { color: #aaa }
